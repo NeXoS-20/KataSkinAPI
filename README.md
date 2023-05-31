@@ -26,7 +26,7 @@
 - SkinsRestorer installed on your server.
 - **Supported versions :**
   - 1.19 🟢
-  - 1.18 🟠
+  - 1.18 🟢
   - 1.17 🟠
   - 1.16 🟠
   - 1.15 🟠
