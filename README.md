@@ -10,7 +10,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/TheOldBestDev/KataSkinAPI?color=green&label=Version&style=for-the-badge)](https://github.com/TheOldBestDev/KataSkinAPI/releases/latest)
 </div>
 
-**KataSkinAPI** is a free, open source plugin for the Java edition of Minecraft that allows you to easily manage Banning, Silencing, Warnings and Expulsion of your players.
+**KataSkinAPI** is a free, open source plugin for the Java edition of Minecraft that allows you to use your own SkinAPI for your server.
 
 ## Contents
 
